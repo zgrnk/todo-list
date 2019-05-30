@@ -1,0 +1,29 @@
+form a {
+  margin-left: 5px;
+}
+
+.pt50 {
+  padding-top: 50px;
+}
+
+.pt100 {
+  padding-top: 100px;
+}
+
+.pt10 {
+  padding-top: 10px;
+}
+
+.pt25 {
+  padding-top: 25px;
+}
+
+.ph15 {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.ph5 {
+  padding-left: 5px;
+  padding-right: 5px;
+}
